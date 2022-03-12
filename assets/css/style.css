@@ -148,7 +148,9 @@ z-index: 1;
 }
 
 #nav .nav-arrow-down {
-    font-size: 14px;
+    font-size: 13px;
+    font-weight: 700;
+    
 }
 
 #header .search-btn {
@@ -186,11 +188,14 @@ z-index: 1;
 #slider .text-heading{
     font-weight: 200;
     font-size: 24px;
+    opacity: 0.6;
 }
+
 #slider .text-description{
     font-size: 15px;
     margin-top: 25px;
     font-weight: 700;
+    opacity: 00.6;
 }
 
 
@@ -315,7 +320,7 @@ z-index: 1;
     line-height: 1.5;
 }
 
-.contact-info i[class*='ti-']{
+.contact-info i[class*='fa']{
     display: inline-block;
     width: 30px;
 }
