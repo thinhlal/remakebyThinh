@@ -169,9 +169,11 @@ z-index: 1;
 
 #slider {
     position: relative;
-    margin-top: 46px;
-    padding-top: 50%;
-    background: url('/assets/img/Map/map.jpg') top center / cover no-repeat;
+    margin-top: 45px;  
+}
+
+.img-slider{
+    width: 100%;
 }
 
 #slider .text-content{
